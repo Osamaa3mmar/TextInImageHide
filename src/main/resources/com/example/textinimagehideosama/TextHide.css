@@ -1,0 +1,33 @@
+.page{
+    -fx-background-color: #E4E0E1;
+
+}
+
+.image-cover{
+    -fx-border-color: #493628;
+    -fx-border-width: 3px;
+}
+
+.line-block{
+
+}
+
+.bit-btn-active{
+    -fx-background-color: #493628;
+    -fx-text-fill: #E4E0E1;
+}
+
+.bit-btn{
+    -fx-background-color: transparent;
+    -fx-text-fill: #493628;
+    -fx-border-color: #493628;
+}
+.labe-active{
+    -fx-background-color: Green;
+    -fx-text-fill: #E4E0E1;
+}
+.label-normal{
+    -fx-text-fill: #E4E0E1;
+    -fx-background-color: RED;
+
+}
